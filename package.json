@@ -1,0 +1,9 @@
+{
+  "name": "webscraper",
+  "version": "0.0.1",
+  "description": "A web scraper that can get data even from javascript rendered sites",
+  "private": true,
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
